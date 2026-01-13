@@ -1,0 +1,5 @@
+database:
+  host: "localhost"
+  name: "testdb"
+  user: "postgres"
+  password: "Peter"
